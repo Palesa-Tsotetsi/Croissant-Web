@@ -1,0 +1,28 @@
+h1,h2{
+    text-align: center;
+    background-color: white;
+    color: rgb(255, 0, 21);
+    margin-left: 65px;
+    margin-right: 70px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(68, 16, 20);
+    
+}
+
+.links{
+    padding-top: 50px;
+    color: aliceblue;
+
+}
+a{
+    padding-left: 80px;
+    color: azure;
+}
+p{
+    background-color: rgb(185, 73, 79);
+    color: white;
+    font-weight: bolder;
+}
